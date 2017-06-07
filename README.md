@@ -11,5 +11,5 @@ To use simple drag the PXT, or Micro Python code on to your micro:bit, then atta
 
 ## License
 
-[Created for Kids, Code and Computer Science Magazine.](https://www.kidscodecs.com/)
+[Created for Kids, Code and Computer Science Magazine.](https://www.kidscodecs.com/) 
 
