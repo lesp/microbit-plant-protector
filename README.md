@@ -1,4 +1,5 @@
-#micro:bit Plant Protector
+![alt](https://raw.githubusercontent.com/lesp/microbit-plant-protector/master/kccs-logo-yellow-470x160.png)
+# micro:bit Plant Protector
 
 Use the power of the micro:bit to ensure your plants are well watered
 
